@@ -26,9 +26,9 @@ require_once('diagnosis.php');
         <h1><?php echo $title; ?></h1>
         <h2><?php echo $subTitle ; ?></h2>
 
-        <p><a href="http://localhost:8888/ppapMaker.php">PPAPメーカー</a></p>
-        <p><a href="http://localhost:8888/codeMaker.php">暗号メーカー</a></p>
-        <p><a href="http://localhost:8888/characterMaker.php">キャラクターメーカー</a></p>
+        <p><a href="ppapMaker.php">PPAPメーカー</a></p>
+        <p><a href="codeMaker.php">暗号メーカー</a></p>
+        <p><a href="characterMaker.php">キャラクターメーカー</a></p>
 
         </div>
 
